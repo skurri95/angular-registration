@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kurri
+Build-Jdk: 17.0.6
+Implementation-Title: spring-angular-registration
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.wissensalt.test
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-angular-registration
+Created-By: Maven Integration for Eclipse
+
